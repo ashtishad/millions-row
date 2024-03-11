@@ -9,9 +9,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/ashtishad/go-project-template/internal/common"
-	"github.com/ashtishad/go-project-template/internal/infra/postgres"
-	"github.com/ashtishad/go-project-template/internal/infra/transport"
+	"github.com/ashtishad/millions-row/internal/common"
+	"github.com/ashtishad/millions-row/internal/infra/postgres"
+	"github.com/ashtishad/millions-row/internal/infra/transport"
 )
 
 func main() {

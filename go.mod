@@ -1,8 +1,11 @@
-module github.com/ashtishad/go-project-template
+module github.com/ashtishad/millions-row
 
 go 1.22.0
 
-require github.com/jackc/pgx/v5 v5.5.5
+require (
+	github.com/ashtishad/go-project-template v0.0.0-20240311133108-4fe1dd356509
+	github.com/jackc/pgx/v5 v5.5.5
+)
 
 require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect
